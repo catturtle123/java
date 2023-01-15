@@ -1,4 +1,6 @@
 # java
+## 23.1.15
+- User Input, Switch문, 삼항연산자, Guard Condition, 이클립스 템플릿에 대해 배웠다.
 ## 23.1.14
 - 단축회로연산자, char 자료형에 대해 배웠다.
 ## 23.1.2
