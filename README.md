@@ -1,4 +1,6 @@
 # java
+## 23.1.16
+- do-while문, break, continue, 참조변수, String, 래퍼 클래스, 자바 Date에 대해 배웠다.
 ## 23.1.15
 - User Input, Switch문, 삼항연산자, Guard Condition, 이클립스 템플릿에 대해 배웠다.
 ## 23.1.14
