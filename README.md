@@ -1,4 +1,6 @@
 # java
+## 23.1.17
+- date api, Array, 가변 인자, BigDecimal의 무한 소수 표현에 대해 배웠다.
 ## 23.1.16
 - do-while문, break, continue, 참조변수, String, 래퍼 클래스, 자바 Date에 대해 배웠다.
 ## 23.1.15
