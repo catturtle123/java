@@ -1,4 +1,6 @@
 # java
+## 23.1.18
+- eclipse tip, ArrayList, 객체지향 프로그래밍에 대해 배웠다.
 ## 23.1.17
 - date api, Array, 가변 인자, BigDecimal의 무한 소수 표현에 대해 배웠다.
 ## 23.1.16
