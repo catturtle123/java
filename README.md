@@ -1,4 +1,6 @@
 # java
+## 23.2.10
+- Collection, List(ArrayList, LinkedList, Vector)에 대해 배웠다.
 ## 23.2.9
 - 상속, 추상 클래스, 인터페이스에 대해 배웠다.
 ## 23.1.19
