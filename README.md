@@ -1,6 +1,6 @@
 # java
 ## 23.2.11
-- 리스트의 반복, 정렬에 대해 배웠다.
+- 리스트의 반복, 정렬, set(HashSet, TreeSet, LinkedHashSet), 해시테이블, 트리에 대해 배웠다.
 ## 23.2.10
 - Collection, List(ArrayList, LinkedList, Vector)에 대해 배웠다.
 ## 23.2.9
