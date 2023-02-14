@@ -1,4 +1,6 @@
 # java
+## 23.2.14
+- 함수형 프로그래밍, 제네릭스, 와일드 카드에 대해 배웠다.
 ## 23.2.13
 - NavigatorSet, map(HashMap, HashTable, LinkedHashMap, TreeMap), queue(PriorityQueue)에 대해 배웠다.
 ## 23.2.11
