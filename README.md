@@ -1,4 +1,6 @@
 # java
+## 23.2.23
+- conrentHashMap, static import, copyOnWriteArrayList에 대해 배웠다.
 ## 23.2.22
 - 쓰레드 세이프에 대해 배웠다. (복습 필요)
 ## 23.2.21
