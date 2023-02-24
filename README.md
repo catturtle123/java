@@ -1,6 +1,6 @@
 # java
 ## 23.2.24
-- 클래스 접근자, 메소드 접근자, equals, hashCode에 대해 배웠다.
+- 클래스 접근 제어자, 메소드 접근 제어자, equals 메소드, hashCode에 대해 배웠다.
 ## 23.2.23
 - conrentHashMap, static import, copyOnWriteArrayList에 대해 배웠다.
 ## 23.2.22
